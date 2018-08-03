@@ -1,0 +1,14 @@
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\bin\Debug\WpfPageTransitions.dll
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\bin\Debug\WpfPageTransitions.pdb
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions.csprojAssemblyReference.cache
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\PageTransition.g.cs
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.cache
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.lref
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\PageTransition.baml
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions.g.resources
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions.Properties.Resources.resources
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.cache
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.CoreCompileInputs.cache
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
+C:\MyFolder\Test\Trans\PageTransitionsDemo\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb
